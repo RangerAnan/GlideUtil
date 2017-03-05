@@ -1,2 +1,2 @@
 # GlideUtil
-封装的Glide的工具类
+封装Glide的工具类
